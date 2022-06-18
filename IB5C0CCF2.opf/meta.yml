@@ -1,0 +1,44 @@
+id: IB5C0CCF2
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:47:55.004771'
+last_modified: '2022-06-18T19:47:55.004783'
+parser: null
+source_metadata:
+  title: Chag lo Rin chen chos rgyals (b. 1447) Kālacakra lineage history
+  author: chag lo rin chen chos rgyal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-10-16); head entries and linebreaks encoded, revision in process, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre; This text was digitally published by be
+    ri rig pa''i rdo rje/ (ed.), Tashi Choeling Buddhist Center (Charlottesville,
+    VA); dus ''khor brgyud
+
+    pa''i rtogs brjod/ (Digital Text version/id: nges don sgron me/ 29, uploaded 19
+    /09/ 2013). (src)'
+  - Text input:nang bstan rig mdzod nges don dpe tshogs 'phrul deb lte gnas/, Tashi
+    Choeling Buddhist Center (tcbci)
+  - Editorial process:nang bstan rig mdzod nges don dpe tshogs 'phrul deb lte gnas/
+    (ntrd), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/468
+  bases:
+    a31e:
+      title: Chag lo Rin chen chos rgyals (b. 1447) Kālacakra lineage history
+      order: 1
+      base_file: a31e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
